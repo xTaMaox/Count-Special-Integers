@@ -11,6 +11,7 @@ Example 1:
 Input: n = 20
 Output: 19
 Explanation: All the integers from 1 to 20, except 11, are special. Thus, there are 19 special integers.
+
 Example 2:
 
 Input: n = 5
